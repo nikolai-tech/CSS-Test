@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* designing Introduction with the images and background */
+
+h1 {
+    font-family: 'Alex Brush', cursive;
+    font-size: 3em;
+    font-weight: bold;
+    padding: 25px;
+}
+
+.programmer {
+    font-family: 'Courier Prime', monospace;
+    font-size: 1.5em;
+}
+.top-container {
+    color: #292727;
+    background-color: #add8e6;
+    width: 100%;
+    margin: 0;
+}
+
+.top-cloud {
+    position: relative;
+    left: 25%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 25%;
+}
+
+.mountain {
+    position: relative;
+    top: 10px;
+    height: 250px;
+    width: 600px;
+}
+
+.prof-img {
+    position: relative;
+    top: 10px;
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+/* designing Skills category */
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.coffee {
+    position: relative;
+    height: 200px;
+    width: 25%;
+    bottom: 50px;
+    float: left;
+    margin-right: 30px;
+}
+
+.dev-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+/* designing Get In Touch category */
+
+.contact-me {
+    width: 100%;
+    margin: 100px auto;
+    text-align: center;
+}
