@@ -1,0 +1,1 @@
+This is an example of using CSS instead of using inline styles in HTML to provide organization of styles for HTML. Also, it shows that CSS has wide varieties and options for the users to design their web pages unlike just using HTML which is very limited to designs and is focused more on content.
